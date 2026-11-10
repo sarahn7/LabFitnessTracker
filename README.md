@@ -27,3 +27,6 @@ Sarah
 ## Code Review
 - **Reviewed by:** Victor O'Donnell
 - **Status:** Checked code. Inheritance (`extends`), Scanner input, and calorie calculations are all correct and working!
+
+# Collaboration Acknowledgement
+This project was reviewed by Victor O'Donnell on Github
