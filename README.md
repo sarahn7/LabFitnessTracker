@@ -24,3 +24,6 @@ Sarah
         System.out.println("Calories burned: " + calories);
 // This code will calculate the calories burned and print it out
 ```
+## Code Review
+- **Reviewed by:** Victor O'Donnell
+- **Status:** Checked code. Inheritance (`extends`), Scanner input, and calorie calculations are all correct and working!
